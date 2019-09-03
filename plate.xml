@@ -3,7 +3,7 @@
 <cascade>
   <stageType>BOOST</stageType>
   <featureType>HAAR</featureType>
-  <height>30</height> 
+  <height>30</height>
   <width>90</width>
   <stageParams>
     <boostType>GAB</boostType>
