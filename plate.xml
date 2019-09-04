@@ -16,11 +16,11 @@
 
     <boostType>GAB</boostType> 
 
-    <minHitRate>30.9500000476837158e-01</minHitRate> 
+    <minHitRate>1.9500000476837158e-01</minHitRate> 
 
     <maxFalseAlarm>5.0000000000000000e-01</maxFalseAlarm> 
 
-    <weightTrimRate>20.4999998807907104e-01</weightTrimRate> 
+    <weightTrimRate>1.4999998807907104e-01</weightTrimRate> 
 
     <maxDepth>1</maxDepth> 
 
